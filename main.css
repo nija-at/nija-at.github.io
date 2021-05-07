@@ -1,0 +1,29 @@
+body {
+  margin: 1em;
+  margin-left: 5em;
+  margin-right: 5em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  padding-bottom: 1em;
+}
+
+header a {
+  color: black;
+  font-size: 18;
+  margin-right: 10px;
+  padding: 5px;
+}
+
+header a:link {
+  text-decoration: none;
+}
+
+#active-header {
+  background-color: lightgray;
+}
+
+p {
+  font-size: 18;
+}
