@@ -27,3 +27,9 @@ header a:link {
 p {
   font-size: 18;
 }
+
+.blog-date {
+  color: gray;
+  margin-right: 0.5em;
+  font-style: italic;
+}
